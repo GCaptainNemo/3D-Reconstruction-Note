@@ -1,2 +1,2 @@
-*.ipynb linguist-language=python
+*.ipynb linguist-language=jupyter-notebook
 *.png linguist-language=python
